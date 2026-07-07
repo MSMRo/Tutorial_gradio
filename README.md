@@ -4,7 +4,7 @@ Tutorial completo sobre cómo crear interfaces de usuario interactivas con **Gra
 
 Ejemplo de aplicación Gradio:
 
-![img](./imgs/iu1.png)
+![img](./2_IMGS/iu1.png)
 
 ## Contenido
 
